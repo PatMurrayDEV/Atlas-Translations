@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Atlas/Base.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.3" build-num="9E145"/>
+    </header>
+    <body>
+      <trans-unit id="Apple's Documentation">
+        <source>Apple's Documentation</source>
+        <target>Apple's Documentation</target>
+        <note>Link to Apple's Website.</note>
+      </trans-unit>
+      <trans-unit id="Atlas creates two images, one of the map and one blurred. I recommend setting the blurred image to the Home Screen wallpaper.\n\nTo save the photos, select 'Save 2 Photos' in the share sheet and grant Atlas permission to save photos.\n\n\n\nFor more info on how to set a wallpaper please see Apple's Documentation.">
+        <source>Atlas creates two images, one of the map and one blurred. I recommend setting the blurred image to the Home Screen wallpaper.\n\nTo save the photos, select 'Save 2 Photos' in the share sheet and grant Atlas permission to save photos.\n\n\n\nFor more info on how to set a wallpaper please see Apple's Documentation.</source>
+        <target>Atlas creates two images, one of the map and one blurred. I recommend setting the blurred image to the Home Screen wallpaper.\n\nTo save the photos, select 'Save 2 Photos' in the share sheet and grant Atlas permission to save photos.\n\n\n\nFor more info on how to set a wallpaper please see Apple's Documentation.</target>
+        <note>Alert about .</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Choose a Style">
+        <source>Choose a Style</source>
+        <target>Choose a Style</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Network Error">
+        <source>Network Error</source>
+        <target>Network Error</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Place Found">
+        <source>No Place Found</source>
+        <target>No Place Found</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ok">
+        <source>Ok</source>
+        <target>Ok</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Save Wallpaper">
+        <source>Save Wallpaper</source>
+        <target>Save Wallpaper</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Search failed to find a location. Please try again with more specificity.">
+        <source>Search failed to find a location. Please try again with more specificity.</source>
+        <target>Search failed to find a location. Please try again with more specificity.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="There was an error connecting to the internet. To see popular places, and load styles chose 'Try Again'.">
+        <source>There was an error connecting to the internet. To see popular places, and load styles chose 'Try Again'.</source>
+        <target>There was an error connecting to the internet. To see popular places, and load styles chose 'Try Again'.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Try Again">
+        <source>Try Again</source>
+        <target>Try Again</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Atlas/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.3" build-num="9E145"/>
+    </header>
+    <body>
+      <trans-unit id="9pj-HH-tdE.text">
+        <source>ATLAS</source>
+        <target>ATLAS</target>
+        <note>Class = "UILabel"; text = "ATLAS"; ObjectID = "9pj-HH-tdE";</note>
+      </trans-unit>
+      <trans-unit id="aXd-Qi-Jtq.placeholder">
+        <source>City, Country</source>
+        <target>City, Country</target>
+        <note>Class = "UISearchBar"; placeholder = "City, Country"; ObjectID = "aXd-Qi-Jtq";</note>
+      </trans-unit>
+      <trans-unit id="aer-k8-3x0.normalTitle">
+        <source>SAVE WALLPAPER</source>
+        <target>SAVE WALLPAPER</target>
+        <note>Class = "UIButton"; normalTitle = "SAVE WALLPAPER"; ObjectID = "aer-k8-3x0";</note>
+      </trans-unit>
+      <trans-unit id="yTc-Dc-p4e.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "yTc-Dc-p4e";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Atlas/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.3" build-num="9E145"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription">
+        <source>Atlas does not use your camera. If you see this dialogue something has gone wrong.</source>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
+        <source>Atlas uses your rough location to orient the map around you</source>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryAddUsageDescription">
+        <source>Atlas needs access in order to save created maps to your photos for use as a wallpaper.</source>
+        <note>Privacy - Photo Library Additions Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
