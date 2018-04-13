@@ -7,57 +7,57 @@
     <body>
       <trans-unit id="Apple's Documentation">
         <source>Apple's Documentation</source>
-        <target>Apple's Documentation</target>
+        <target>Aide Apple</target>
         <note>Link to Apple's Website.</note>
       </trans-unit>
       <trans-unit id="Atlas creates two images, one of the map and one blurred. I recommend setting the blurred image to the Home Screen wallpaper.\n\nTo save the photos, select 'Save 2 Photos' in the share sheet and grant Atlas permission to save photos.\n\n\n\nFor more info on how to set a wallpaper please see Apple's Documentation.">
         <source>Atlas creates two images, one of the map and one blurred. I recommend setting the blurred image to the Home Screen wallpaper.\n\nTo save the photos, select 'Save 2 Photos' in the share sheet and grant Atlas permission to save photos.\n\n\n\nFor more info on how to set a wallpaper please see Apple's Documentation.</source>
-        <target>Atlas creates two images, one of the map and one blurred. I recommend setting the blurred image to the Home Screen wallpaper.\n\nTo save the photos, select 'Save 2 Photos' in the share sheet and grant Atlas permission to save photos.\n\n\n\nFor more info on how to set a wallpaper please see Apple's Documentation.</target>
+        <target>Atlas créé deux images, dont une est floue. Je recommande d'utiliser cette dernière pour l'écran d'accueil.\n\nPour enregistrer ces photos, choisissez « Enregistrer 2 Photos » dans l'écran de partage et donnez à Atlas la permission d'enregistrer des images.\n\n\n\nPour plus d'informations concernant le changement de fond d'écran, vous pouvez consulter la page d'aide Apple.</target>
         <note>Alert about .</note>
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
-        <target>Cancel</target>
+        <target>Annuler</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Choose a Style">
         <source>Choose a Style</source>
-        <target>Choose a Style</target>
+        <target>Choisir un Style</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Network Error">
         <source>Network Error</source>
-        <target>Network Error</target>
+        <target>Erreur Réseau</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Place Found">
         <source>No Place Found</source>
-        <target>No Place Found</target>
+        <target>Aucun Résultat</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ok">
         <source>Ok</source>
-        <target>Ok</target>
+        <target>OK</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Save Wallpaper">
         <source>Save Wallpaper</source>
-        <target>Save Wallpaper</target>
+        <target>Créer un fond d'écran</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Search failed to find a location. Please try again with more specificity.">
         <source>Search failed to find a location. Please try again with more specificity.</source>
-        <target>Search failed to find a location. Please try again with more specificity.</target>
+        <target>Aucun lieu correspondant à votre recherche n'a été trouvé. Réessayez avec plus de précision.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="There was an error connecting to the internet. To see popular places, and load styles chose 'Try Again'.">
         <source>There was an error connecting to the internet. To see popular places, and load styles chose 'Try Again'.</source>
-        <target>There was an error connecting to the internet. To see popular places, and load styles chose 'Try Again'.</target>
+        <target>L'application a rencontré une erreur en se connectant à Internet. Pour voir les lieux populaires et charger les styles, choisissez « Réessayer ».</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Try Again">
         <source>Try Again</source>
-        <target>Try Again</target>
+        <target>Réessayer</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -74,12 +74,12 @@
       </trans-unit>
       <trans-unit id="aXd-Qi-Jtq.placeholder">
         <source>City, Country</source>
-        <target>City, Country</target>
+        <target>Ville, Pays</target>
         <note>Class = "UISearchBar"; placeholder = "City, Country"; ObjectID = "aXd-Qi-Jtq";</note>
       </trans-unit>
       <trans-unit id="aer-k8-3x0.normalTitle">
         <source>SAVE WALLPAPER</source>
-        <target>SAVE WALLPAPER</target>
+        <target>CRÉER UN FOND D'ÉCRAN</target>
         <note>Class = "UIButton"; normalTitle = "SAVE WALLPAPER"; ObjectID = "aer-k8-3x0";</note>
       </trans-unit>
       <trans-unit id="yTc-Dc-p4e.text">
@@ -100,14 +100,17 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>Atlas does not use your camera. If you see this dialogue something has gone wrong.</source>
+        <target>Atlas n'utilise pas votre appareil photo. Si ce dialogue apparaît, c'est par erreur.</target>
         <note>Privacy - Camera Usage Description</note>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Atlas uses your rough location to orient the map around you</source>
+        <target>Atlas utilise votre emplacement approximatif pour positionner la carte autour du lieu où vous vous trouvez.</target>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>Atlas needs access in order to save created maps to your photos for use as a wallpaper.</source>
+        <target>Atlas a besoin de votre permission pour enregistrer les cartes dans vos photos, afin que vous puissiez les utiliser comme fond d'écran. </target>
         <note>Privacy - Photo Library Additions Usage Description</note>
       </trans-unit>
     </body>
