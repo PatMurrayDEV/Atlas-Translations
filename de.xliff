@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Atlas/Base.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="de">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="9.3" build-num="9E145"/>
@@ -7,32 +6,32 @@
     <body>
       <trans-unit id="Apple's Documentation">
         <source>Apple's Documentation</source>
-        <target>Apple's Documentation</target>
+        <target>Apple Dokumentation</target>
         <note>Link to Apple's Website.</note>
       </trans-unit>
       <trans-unit id="Atlas creates two images, one of the map and one blurred. I recommend setting the blurred image to the Home Screen wallpaper.\n\nTo save the photos, select 'Save 2 Photos' in the share sheet and grant Atlas permission to save photos.\n\n\n\nFor more info on how to set a wallpaper please see Apple's Documentation.">
         <source>Atlas creates two images, one of the map and one blurred. I recommend setting the blurred image to the Home Screen wallpaper.\n\nTo save the photos, select 'Save 2 Photos' in the share sheet and grant Atlas permission to save photos.\n\n\n\nFor more info on how to set a wallpaper please see Apple's Documentation.</source>
-        <target>Atlas creates two images, one of the map and one blurred. I recommend setting the blurred image to the Home Screen wallpaper.\n\nTo save the photos, select 'Save 2 Photos' in the share sheet and grant Atlas permission to save photos.\n\n\n\nFor more info on how to set a wallpaper please see Apple's Documentation.</target>
+        <target>Atlas erstellt zwei Bilder. Eins von der Karte, und ein verschwommenes. Ich finde, dass sich das verschwommene Bild ganz gut auf dem Homebildschirm macht.\n\nUm die Bilder zu speichern, wähle '2 Fotos speichern' im Share Sheet. Du musst Atlas die Berechtigung erteilen auf deine Fotos zugreifen zu dürfen, um die Bilder speichern zu können.\n\n\n\nIn Apple's Dokumentation kannst du mehr über Hintergrundbilder erfahren.</target>
         <note>Alert about .</note>
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
-        <target>Cancel</target>
+        <target>Abbrechen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Choose a Style">
         <source>Choose a Style</source>
-        <target>Choose a Style</target>
+        <target>Style auswählen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Network Error">
         <source>Network Error</source>
-        <target>Network Error</target>
+        <target>Netzwerk Fehler</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Place Found">
         <source>No Place Found</source>
-        <target>No Place Found</target>
+        <target>Kein Ort gefunden</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ok">
@@ -42,22 +41,22 @@
       </trans-unit>
       <trans-unit id="Save Wallpaper">
         <source>Save Wallpaper</source>
-        <target>Save Wallpaper</target>
+        <target>Hintergrundbild speichern</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Search failed to find a location. Please try again with more specificity.">
         <source>Search failed to find a location. Please try again with more specificity.</source>
-        <target>Search failed to find a location. Please try again with more specificity.</target>
+        <target>Leider konnte kein Ort gefunden werden. Versuch es bitte mit einer etwas genaueren Suche.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="There was an error connecting to the internet. To see popular places, and load styles chose 'Try Again'.">
         <source>There was an error connecting to the internet. To see popular places, and load styles chose 'Try Again'.</source>
-        <target>There was an error connecting to the internet. To see popular places, and load styles chose 'Try Again'.</target>
+        <target>Ein Fehler mit der Internetverbindung ist aufgetreten. Um die beliebten Orte zu sehen, versuche es bitte erneut.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Try Again">
         <source>Try Again</source>
-        <target>Try Again</target>
+        <target>Erneut versuchen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -74,12 +73,12 @@
       </trans-unit>
       <trans-unit id="aXd-Qi-Jtq.placeholder">
         <source>City, Country</source>
-        <target>City, Country</target>
+        <target>Stadt, Land</target>
         <note>Class = "UISearchBar"; placeholder = "City, Country"; ObjectID = "aXd-Qi-Jtq";</note>
       </trans-unit>
       <trans-unit id="aer-k8-3x0.normalTitle">
         <source>SAVE WALLPAPER</source>
-        <target>SAVE WALLPAPER</target>
+        <target>HINTERGRUNDBILD SPEICHERN</target>
         <note>Class = "UIButton"; normalTitle = "SAVE WALLPAPER"; ObjectID = "aer-k8-3x0";</note>
       </trans-unit>
       <trans-unit id="yTc-Dc-p4e.text">
@@ -100,15 +99,15 @@
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>Atlas does not use your camera. If you see this dialogue something has gone wrong.</source>
-        <note>Privacy - Camera Usage Description</note>
+        <note>Privacy - Camera Usage Description</note><target>Atlas verwendet die Kamera nicht. Wenn du diese Meldung siehst, ist wohl etwas schief gelaufen.</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Atlas uses your rough location to orient the map around you</source>
-        <note>Privacy - Location When In Use Usage Description</note>
+        <note>Privacy - Location When In Use Usage Description</note><target>Atlas verwendet deinen ungefähren Ort, um die Karte auf deinen Standort zu zentrieren.</target>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>Atlas needs access in order to save created maps to your photos for use as a wallpaper.</source>
-        <note>Privacy - Photo Library Additions Usage Description</note>
+        <note>Privacy - Photo Library Additions Usage Description</note><target>Atlas benötigt die Berechtigung, um die Karten in deiner Fotobibliothek speichern zu können, damit du sie später als Hintergrundbild einrichten kannst.</target>
       </trans-unit>
     </body>
   </file>
