@@ -7,32 +7,32 @@
     <body>
       <trans-unit id="Apple's Documentation">
         <source>Apple's Documentation</source>
-        <target>Apple's Documentation</target>
+        <target>Documentazione di Apple</target>
         <note>Link to Apple's Website.</note>
       </trans-unit>
       <trans-unit id="Atlas creates two images, one of the map and one blurred. I recommend setting the blurred image to the Home Screen wallpaper.\n\nTo save the photos, select 'Save 2 Photos' in the share sheet and grant Atlas permission to save photos.\n\n\n\nFor more info on how to set a wallpaper please see Apple's Documentation.">
         <source>Atlas creates two images, one of the map and one blurred. I recommend setting the blurred image to the Home Screen wallpaper.\n\nTo save the photos, select 'Save 2 Photos' in the share sheet and grant Atlas permission to save photos.\n\n\n\nFor more info on how to set a wallpaper please see Apple's Documentation.</source>
-        <target>Atlas creates two images, one of the map and one blurred. I recommend setting the blurred image to the Home Screen wallpaper.\n\nTo save the photos, select 'Save 2 Photos' in the share sheet and grant Atlas permission to save photos.\n\n\n\nFor more info on how to set a wallpaper please see Apple's Documentation.</target>
+        <target>Atlas crea due imagini, uno della carta e uno sfocato. Si raccomanda di impostare l'imagine sfocata sullo sfondo dello schermo di casa.\n\nPer salvare le foto, seleziona «Salva 2 immagini» nel share sheet e autorizza Atlas a salvare  imagini.\n\n\n\nPer più informazioni su come impostare un sfondo guarda la documentazione di Apple.</target>
         <note>Alert about .</note>
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
-        <target>Cancel</target>
+        <target>Anulla</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Choose a Style">
         <source>Choose a Style</source>
-        <target>Choose a Style</target>
+        <target>Scegli un Stile</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Network Error">
         <source>Network Error</source>
-        <target>Network Error</target>
+        <target>Errore di Rete</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No Place Found">
         <source>No Place Found</source>
-        <target>No Place Found</target>
+        <target>Nessun Posto Trovato</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ok">
@@ -42,22 +42,22 @@
       </trans-unit>
       <trans-unit id="Save Wallpaper">
         <source>Save Wallpaper</source>
-        <target>Save Wallpaper</target>
+        <target>Salva Sfondo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Search failed to find a location. Please try again with more specificity.">
         <source>Search failed to find a location. Please try again with more specificity.</source>
-        <target>Search failed to find a location. Please try again with more specificity.</target>
+        <target>La ricerca non ha potuto trovare una collocazione. Prova ancora con più dettagli.  </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="There was an error connecting to the internet. To see popular places, and load styles chose 'Try Again'.">
         <source>There was an error connecting to the internet. To see popular places, and load styles chose 'Try Again'.</source>
-        <target>There was an error connecting to the internet. To see popular places, and load styles chose 'Try Again'.</target>
+        <target>C'era un errore nella connessione a internet. Per vedere posti frequentati  e caricare stili scegli "Prova Ancora"</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Try Again">
         <source>Try Again</source>
-        <target>Try Again</target>
+        <target>Prova Ancora</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -74,12 +74,12 @@
       </trans-unit>
       <trans-unit id="aXd-Qi-Jtq.placeholder">
         <source>City, Country</source>
-        <target>City, Country</target>
+        <target>Città, Paese</target>
         <note>Class = "UISearchBar"; placeholder = "City, Country"; ObjectID = "aXd-Qi-Jtq";</note>
       </trans-unit>
       <trans-unit id="aer-k8-3x0.normalTitle">
         <source>SAVE WALLPAPER</source>
-        <target>SAVE WALLPAPER</target>
+        <target>SALVA SFONDO</target>
         <note>Class = "UIButton"; normalTitle = "SAVE WALLPAPER"; ObjectID = "aer-k8-3x0";</note>
       </trans-unit>
       <trans-unit id="yTc-Dc-p4e.text">
@@ -97,19 +97,19 @@
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <note>Bundle name</note>
-      </trans-unit>
+      <target></target></trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>Atlas does not use your camera. If you see this dialogue something has gone wrong.</source>
         <note>Privacy - Camera Usage Description</note>
-      </trans-unit>
+      <target>Atlas non usa la tua telecamera. Se vedi questa finestra di dialogo, qualcosa e' andato male.</target></trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Atlas uses your rough location to orient the map around you</source>
         <note>Privacy - Location When In Use Usage Description</note>
-      </trans-unit>
+      <target>Atlas usa la tua postazione approssimata per orientare la carta </target></trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription">
         <source>Atlas needs access in order to save created maps to your photos for use as a wallpaper.</source>
         <note>Privacy - Photo Library Additions Usage Description</note>
-      </trans-unit>
+      <target> A Atlas serve accesso per salvare le carte create alle tue foto per essere usate come sfondi.</target></trans-unit>
     </body>
   </file>
 </xliff>
